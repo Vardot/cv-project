@@ -62,7 +62,7 @@
     ],
     "post-drupal-scaffold-cmd": [
       "Varbase\\composer\\ScriptHandler::postDrupalScaffoldProcedure",
-      "VarbaseSubProfileBasic\\composer\\ScriptHandler::postDrupalScaffoldSubProfileProcedure"
+      "cv\\composer\\ScriptHandler::postDrupalScaffoldSubProfileProcedure"
     ]
   },
   "minimum-stability": "dev",
